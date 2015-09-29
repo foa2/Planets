@@ -40,7 +40,7 @@ horizontal rule (or slide break)
 2. item2
 
 you can write `inline` code with -tick
-
+sdfasdfa
 ```
 code block display
 with fixed length
@@ -51,7 +51,7 @@ Below are specific to r markdwon:
 ```{r}
 summary(1:10)
 ```
-
+s
 ```{r plot, echo=TRUE}
 boxplot(1:10)
 ```
